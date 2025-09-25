@@ -1,0 +1,11 @@
+transaction_id,product_sku,product_category,brand_name,unit_price,quantity_sold,discount_percentage,customer_segment,sales_channel,transaction_timestamp,shipping_cost,tax_amount,profit_margin,inventory_level_after_sale
+TXN000001,SKU2847,Electronics,BrandA,299.99,2,10,Premium,Online,2024-09-20 14:32:15,12.99,47.99,0.28,45
+TXN000002,SKU1563,Clothing,BrandC,79.50,1,0,Standard,Retail Store,2024-09-18 10:15:42,0.00,6.36,0.35,23
+TXN000003,SKU9274,Home & Garden,BrandB,149.99,3,15,Budget,Mobile App,2024-09-17 16:22:08,8.50,35.99,0.22,12
+TXN000004,SKU4821,Sports,BrandD,89.99,1,5,Student,Online,2024-09-15 09:45:33,5.99,7.19,0.31,67
+TXN000005,SKU7356,Books,BrandE,24.95,4,0,Standard,Phone Order,2024-09-14 13:18:27,3.50,7.98,0.18,89
+TXN000006,SKU3698,Toys,BrandF,45.99,2,20,Premium,Wholesale,2024-09-12 11:05:19,0.00,7.35,0.25,156
+TXN000007,SKU8142,Electronics,BrandA,199.00,1,25,Enterprise,Online,2024-09-10 15:42:51,9.99,15.92,0.33,78
+TXN000008,SKU5927,Clothing,BrandC,125.00,2,10,Premium,Retail Store,2024-09-08 12:30:45,0.00,20.00,0.29,34
+TXN000009,SKU1483,Home & Garden,BrandB,67.99,1,0,Budget,Mobile App,2024-09-07 08:15:22,4.99,5.44,0.26,91
+TXN000010,SKU6735,Sports,BrandD,159.99,1,15,Standard,Online,2024-09-05 17:28:36,7.50,12.79,0.24,23

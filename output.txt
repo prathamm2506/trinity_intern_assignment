@@ -1,0 +1,45 @@
+CSV Header Descriptions
+==================================================
+
+Header: sensor_id
+Description: a list of 'dictionaries' that represent a dataset.
+
+Header: measurement_datetime
+Description: the time that a particular datetime (for example, '2010.
+
+Header: temperature_celsius
+Description: a temperature value.
+
+Header: humidity_percentage
+Description: a percentage value, which is the percentage of the temperature at which a.
+
+Header: atmospheric_pressure_hpa
+Description: two values associated with the atmospheric pressure measurements.
+
+Header: wind_speed_kmh
+Description: the speed of the wind at the time of the column 'wind.
+
+Header: wind_direction_degrees
+Description: the degree of current wind direction.
+
+Header: precipitation_mm
+Description: no references to the source code (except for the file name).
+
+Header: uv_index
+Description: all the columns that had a value of the same value.
+
+Header: air_quality_aqi
+Description: the same data.
+
+Header: battery_voltage
+Description: a list of individual battery levels.
+
+Header: signal_strength_dbm
+Description: the number of times a user has received a signal.
+
+Header: calibration_status
+Description: the results for each cell in the dataset.
+
+Header: data_quality_score
+Description: the total number of data points on each dataset that are either very high.
+

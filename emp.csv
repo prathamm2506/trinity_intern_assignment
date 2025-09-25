@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,job_title,hire_date,salary,manager_id,performance_rating,vacation_days_remaining,email_address,office_location
+EMP0001,John,Smith,Engineering,Developer,2023-03-15,75000,EMP0005,4.2,12,john.smith@company.com,San Francisco
+EMP0002,Sarah,Johnson,Marketing,Manager,2022-08-22,85000,,4.7,8,sarah.johnson@company.com,New York
+EMP0003,Michael,Williams,Sales,Analyst,2023-06-10,62000,EMP0002,3.9,15,michael.williams@company.com,Chicago
+EMP0004,Emma,Brown,HR,Specialist,2021-11-30,68000,EMP0007,4.5,20,emma.brown@company.com,Austin
+EMP0005,David,Garcia,Engineering,Manager,2020-04-18,95000,,4.8,5,david.garcia@company.com,San Francisco
+EMP0006,Lisa,Miller,Finance,Coordinator,2023-01-25,58000,EMP0009,4.1,18,lisa.miller@company.com,Boston
+EMP0007,Robert,Davis,HR,Director,2019-09-12,110000,,4.6,3,robert.davis@company.com,Austin
+EMP0008,Maria,Rodriguez,Operations,Analyst,2022-12-05,65000,EMP0010,4.0,22,maria.rodriguez@company.com,Seattle
+EMP0009,James,Wilson,Finance,Manager,2021-07-14,88000,,4.4,10,james.wilson@company.com,Boston
+EMP0010,Jennifer,Anderson,Operations,Director,2020-02-28,105000,,4.9,7,jennifer.anderson@company.com,Seattle
